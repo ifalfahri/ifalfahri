@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IfalEXZ&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![snake animation](https://github.com/IfalEXZ/IfalEXZ/blob/output/github-contribution-grid-snake2.svg)
+https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg
 ---
 [![](https://visitcount.itsvg.in/api?id=IfalEXZ&icon=5&color=0)](https://visitcount.itsvg.in)
 
