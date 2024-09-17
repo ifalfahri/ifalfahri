@@ -1,4 +1,4 @@
-# 💫 Hi! I'm IfalEXZ
+# 💫 Hi! I'm Ifal Fahri A
 🔭 I’m currently working on something<br>👯 I’m looking to collaborate on anything<br>🌱 I’m currently learning AI<br>💬 Ask me about anything<br>
 
 
