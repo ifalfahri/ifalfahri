@@ -19,7 +19,7 @@
 
 
 ---
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ifalfahri/ifalfahri/blob/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=IfalEXZ&icon=5&color=0)](https://visitcount.itsvg.in)
 
