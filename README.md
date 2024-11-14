@@ -3,7 +3,11 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifalfahry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ifalfahri) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifalfahry) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ifalfahri) 
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?logo=dribbble&logoColor=white)](https://dribbble.com/ifalfahri)
+[![Behance](https://img.shields.io/badge/Behance-%231764FF.svg?logo=behance&logoColor=white)](https://behance.net/ifalfahri)
+
 
 ## 💻 Tech Stack:
 | **Category**   | **Technologies**                                                                                                                   |
