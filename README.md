@@ -22,7 +22,6 @@
 `"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ifalfahri&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ifalfahri&theme=default&hide_border=false)
 
 
