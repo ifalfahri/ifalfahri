@@ -3,14 +3,16 @@
 > "Frontend developer"  
 > "Backend survivor"
 
-🎉 I just recently finished my portfolio, check it out [here](https://ifal.me)<br>👥 Open to collaboration on exciting projects<br>🤖 Currently exploring Front-End Libraries and Generative AI<br>💬 Feel free to ask me about anything<br>
+🎉 I just recently finished my portfolio, check it out [here](https://ifal.me)<br>🤖 Currently exploring Javascript Framework and Generative AI<br>
+
+`"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ifalfahry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifalfahri)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/ifalfahri)
 [![Behance](https://img.shields.io/badge/Behance-%231764FF.svg?style=flat-square&logo=behance&logoColor=white)](https://behance.net/ifalfahri)
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=website&logoColor=white)](https://ifal.me)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://ifal.me)
 
 
 ## 💻 Tech Stack:
@@ -21,7 +23,7 @@
 | **Utilities**     | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) |
 | **Design**     | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) |
 
-`"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ifalfahri&theme=default&hide_border=false)
