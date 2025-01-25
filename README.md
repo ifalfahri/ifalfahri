@@ -28,8 +28,7 @@
 
 
 ## 📊 GitHub Stats:
-![Ifal's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=ifalfahri&theme=default&hide_border=false)
-
+[![GitHub Streak](https://ifalstreak.vercel.app?user=ifalfahri&theme=transparent)](https://git.io/streak-stats)
 
 ---
 ![Snake animation](https://github.com/ifalfahri/ifalfahri/blob/output/github-contribution-grid-snake.svg)
