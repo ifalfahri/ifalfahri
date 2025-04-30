@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Ifal Fahri A
+# Hi! I'm Ifal Fahri A ✨
 
 > "Frontend developer"  
 > "Backend survivor"
@@ -7,7 +7,7 @@
 
 `"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ifalfahry)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifalfahri)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/ifalfahri)
@@ -15,7 +15,7 @@
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://ifal.me)
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 | **Category**     | **Technologies** |
 |------------------|-------------------|
 | **Languages**    | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
@@ -28,7 +28,7 @@
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 [![GitHub Streak](https://ifalstreak.vercel.app?user=ifalfahri&theme=transparent)](https://git.io/streak-stats)
 
 ---
