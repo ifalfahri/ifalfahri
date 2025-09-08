@@ -1,4 +1,4 @@
-# Hi! I'm Ifal Fahri A ✨
+# Hi! I'm Ifal Fahri Aldo ✨
 
 > "Frontend developer"  
 > "Backend survivor"
