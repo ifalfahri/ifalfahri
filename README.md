@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ifalfahry)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifalfahri)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/ifalfahri)
 [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/ifalfahri)
 [![Behance](https://img.shields.io/badge/Behance-%231764FF.svg?style=flat-square&logo=behance&logoColor=white)](https://behance.net/ifalfahri)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://ifal.me)
