@@ -3,7 +3,7 @@
 > "Frontend developer"  
 > "Backend survivor"
 
-🎉 I just recently finished my portfolio, check it out [here](https://ifal.me)<br>🤖 Currently exploring No-Code Web Builder, Generative AI, and n8n Automation<br>
+🎉 I just recently finished my portfolio, check it out [here](https://ifalf.com)<br>🤖 Currently exploring No-Code Web Builder, Generative AI, and n8n Automation<br>
 
 `"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
 
