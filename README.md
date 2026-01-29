@@ -29,10 +29,10 @@
 
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://ifalstreak.vercel.app?user=ifalfahri&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=ifalfahri&theme=transparent)](ifalf.com)
 
----
 ![Snake animation](https://github.com/ifalfahri/ifalfahri/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=IfalEXZ&icon=5&color=1)](https://visitcount.itsvg.in)
 
